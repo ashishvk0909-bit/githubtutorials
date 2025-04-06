@@ -1,5 +1,7 @@
 iam ashish
 let play the game
+Life is like riding a bicycle.
+To keep your balance, you must keep moving.
 #let play the game in a different way
 # dont want to play the game lets start
 #adding first line
